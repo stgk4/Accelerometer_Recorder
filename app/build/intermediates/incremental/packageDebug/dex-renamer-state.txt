@@ -1,0 +1,7 @@
+#Mon Feb 20 22:11:21 CST 2017
+base.0=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2ae7c741f25310860ccdfabb1246458153fc3468
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_380558ceb2529205aa54db6182ecdadfa78f9b31\\classes.dex
+base.1=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_380558ceb2529205aa54db6182ecdadfa78f9b31
+file.0=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2ae7c741f25310860ccdfabb1246458153fc3468\\classes.dex

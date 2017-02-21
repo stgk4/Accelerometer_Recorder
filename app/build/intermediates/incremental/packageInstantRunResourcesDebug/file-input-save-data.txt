@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Mon Feb 20 21:59:34 CST 2017
+2.base=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_main.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\thandus\\Documents\\GitHub\\appengine-endpoints-helloendpoints-android\\Accelerometer_Recorder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+0.set=ANDROID_RESOURCE

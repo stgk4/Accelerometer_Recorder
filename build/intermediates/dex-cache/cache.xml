@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\Documents\GitHub\appengine-endpoints-helloendpoints-android\Accelerometer_Recorder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1bf4831230608476f984c579724fb0da5dcc80fa">
+        <dex dex="C:\Users\thandus\Documents\GitHub\appengine-endpoints-helloendpoints-android\Accelerometer_Recorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2ae7c741f25310860ccdfabb1246458153fc3468\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\thandus\Documents\GitHub\appengine-endpoints-helloendpoints-android\Accelerometer_Recorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_452fa1835821eab6bd089a61d8fc22f69b42ac80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\Documents\GitHub\appengine-endpoints-helloendpoints-android\Accelerometer_Recorder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1b45be5944bf2549e10f3fd8f3d121eae3786ca0">
+        <dex dex="C:\Users\thandus\Documents\GitHub\appengine-endpoints-helloendpoints-android\Accelerometer_Recorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_380558ceb2529205aa54db6182ecdadfa78f9b31\classes.dex" />
+    </item>
+
+</items>
